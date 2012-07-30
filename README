@@ -1,0 +1,6 @@
+The following files are useful for dissecting a McAfee quarantined file (BUP)
+Feel free to contact us at:  Tony.Lee-at-Foundstone.com and Travis.Rosiek-at-McAfee.com
+
+UnBup.pl - McAfee UnBup tool written in Perl because it was faster than the bash script also included
+UnBup.sh - McAfee UnBup tool written in Bash script because it was fast to prototype (but runs slower than the Perl equivalent)
+xor.pl - Simple bitwise xor script written in Perl because I could not find one that did what I wanted on-line
